@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CPU\\_2nd Sem\\CCS 2601\\Projects\\Stub196\\p01Grocery1 with ProductsCustomers\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CCB25361-43B3-45BF-9177-7EBA9EE80FC5}|p01Grocery1.csproj|d:\\cpu\\_2nd sem\\ccs 2601\\projects\\stub196\\p01grocery1 with productscustomers\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CCB25361-43B3-45BF-9177-7EBA9EE80FC5}|p01Grocery1.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCB25361-43B3-45BF-9177-7EBA9EE80FC5}|p01Grocery1.csproj|D:\\CPU\\_2nd Sem\\CCS 2601\\Projects\\Stub196\\p01Grocery1 with ProductsCustomers\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCB25361-43B3-45BF-9177-7EBA9EE80FC5}|p01Grocery1.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\CPU\\_2nd Sem\\CCS 2601\\Projects\\Stub196\\p01Grocery1 with ProductsCustomers\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "D:\\CPU\\_2nd Sem\\CCS 2601\\Projects\\Stub196\\p01Grocery1 with ProductsCustomers\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AQIAAL0AAAAAAAAAAAAEwMgAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-20T00:14:26.946Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\CPU\\_2nd Sem\\CCS 2601\\Projects\\Stub196\\p01Grocery1 with ProductsCustomers\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "D:\\CPU\\_2nd Sem\\CCS 2601\\Projects\\Stub196\\p01Grocery1 with ProductsCustomers\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-19T23:58:07.739Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

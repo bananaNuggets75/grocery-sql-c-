@@ -1,0 +1,20 @@
+D:\CPU\_2nd Sem\CCS 2601\Projects\Stub196\p01Grocery1\bin\Debug\p01Grocery1.exe.config
+D:\CPU\_2nd Sem\CCS 2601\Projects\Stub196\p01Grocery1\bin\Debug\p01Grocery1.exe
+D:\CPU\_2nd Sem\CCS 2601\Projects\Stub196\p01Grocery1\bin\Debug\p01Grocery1.pdb
+D:\CPU\_2nd Sem\CCS 2601\Projects\Stub196\p01Grocery1\obj\Debug\p01Grocery1.csproj.AssemblyReference.cache
+D:\CPU\_2nd Sem\CCS 2601\Projects\Stub196\p01Grocery1\obj\Debug\p01Grocery1.frmHome.resources
+D:\CPU\_2nd Sem\CCS 2601\Projects\Stub196\p01Grocery1\obj\Debug\p01Grocery1.Properties.Resources.resources
+D:\CPU\_2nd Sem\CCS 2601\Projects\Stub196\p01Grocery1\obj\Debug\p01Grocery1.csproj.GenerateResource.cache
+D:\CPU\_2nd Sem\CCS 2601\Projects\Stub196\p01Grocery1\obj\Debug\p01Grocery1.csproj.CoreCompileInputs.cache
+D:\CPU\_2nd Sem\CCS 2601\Projects\Stub196\p01Grocery1\obj\Debug\p01Grocery1.exe
+D:\CPU\_2nd Sem\CCS 2601\Projects\Stub196\p01Grocery1\obj\Debug\p01Grocery1.pdb
+C:\POLGO_195\p01Grocery1 with ProductsCustomers\p01Grocery1 with ProductsCustomers\bin\Debug\p01Grocery1.exe.config
+C:\POLGO_195\p01Grocery1 with ProductsCustomers\p01Grocery1 with ProductsCustomers\bin\Debug\p01Grocery1.exe
+C:\POLGO_195\p01Grocery1 with ProductsCustomers\p01Grocery1 with ProductsCustomers\bin\Debug\p01Grocery1.pdb
+C:\POLGO_195\p01Grocery1 with ProductsCustomers\p01Grocery1 with ProductsCustomers\obj\Debug\p01Grocery1.csproj.AssemblyReference.cache
+C:\POLGO_195\p01Grocery1 with ProductsCustomers\p01Grocery1 with ProductsCustomers\obj\Debug\p01Grocery1.frmHome.resources
+C:\POLGO_195\p01Grocery1 with ProductsCustomers\p01Grocery1 with ProductsCustomers\obj\Debug\p01Grocery1.Properties.Resources.resources
+C:\POLGO_195\p01Grocery1 with ProductsCustomers\p01Grocery1 with ProductsCustomers\obj\Debug\p01Grocery1.csproj.GenerateResource.cache
+C:\POLGO_195\p01Grocery1 with ProductsCustomers\p01Grocery1 with ProductsCustomers\obj\Debug\p01Grocery1.csproj.CoreCompileInputs.cache
+C:\POLGO_195\p01Grocery1 with ProductsCustomers\p01Grocery1 with ProductsCustomers\obj\Debug\p01Grocery1.exe
+C:\POLGO_195\p01Grocery1 with ProductsCustomers\p01Grocery1 with ProductsCustomers\obj\Debug\p01Grocery1.pdb
