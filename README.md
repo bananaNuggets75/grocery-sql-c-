@@ -7,20 +7,17 @@ This guide provides instructions for recovering a backup file using SQL Manageme
 1. Clone the repository to your local machine:
 
     ```bash
-    git clone https://github.com/yourusername/sql-database-recovery.git
+    git clone https://github.com/yourUserName/grocery-sql-c-.git
     ```
 
 2. Navigate to the project directory:
 
     ```bash
-    cd sql-database-recovery
+    cd grocery-sql-c-
     ```
 
-3. Open the project in Visual Studio:
+3. Open the project in Visual Studio by opening the .sln file.
 
-    ```bash
-    code .
-    ```
 
 ## Usage
 
