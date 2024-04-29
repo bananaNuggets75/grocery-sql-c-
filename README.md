@@ -37,3 +37,10 @@ If you find any bugs or have suggestions for improvements, please open an issue 
 ---
 
 **Note**: Please ensure to replace 'Lastname' with whatever name you want before proceeding with the recovery process.
+
+---
+
+To configure the connection in Visual Studio:
+1. Open the project in Visual Studio.
+2. Update the `SetConnection` method based on your SQL server account.
+3. Change the `initial catalog` parameter once you recover the database and replace it with your database name that you renamed.
