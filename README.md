@@ -2,31 +2,38 @@
 
 This guide provides instructions for recovering a backup file using SQL Management Studio. Follow the steps below to successfully recover your backup file:
 
-<font size="4">**Step 1:** Log in to SQL Management Studio</font>
-- Open SQL Management Studio and log in to your SQL account.
+## Installation
 
-<font size="4">**Step 2:** Right-click the Database</font>
-- In the Object Explorer, locate the database you want to recover. Right-click on the database.
+1. Clone the repository to your local machine:
 
-<font size="4">**Step 3:** Select Recovery Option</font>
-- From the context menu, select the "Recover" option.
+    ```bash
+    git clone https://github.com/yourusername/sql-database-recovery.git
+    ```
 
-<font size="4">**Step 4:** Choose Device and Browse File</font>
-- In the Recovery dialog box, select the "Device" option.
-- Click on the "Browse" button to locate the backup file on your system.
+2. Navigate to the project directory:
 
-<font size="4">**Step 5:** Add Backup File</font>
-- After locating the backup file, click the "Add" button to add it to the recovery list.
+    ```bash
+    cd sql-database-recovery
+    ```
 
-<font size="4">**Step 6:** Modify Destination Name</font>
-- Before proceeding, ensure to change the destination database name if necessary. 
-- Click on the destination database name field, modify it according to your preferences, then click "OK".
+3. Open the project in Visual Studio:
 
-<font size="4">**Step 7:** Complete Recovery</font>
-- Review the recovery settings and ensure they meet your requirements.
-- Click "OK" to initiate the recovery process.
+    ```bash
+    code .
+    ```
 
+## Usage
 
+1. Log in to SQL Management Studio.
+2. Right-click on the database you want to recover and select "Recover".
+3. Choose the backup file and add it to the recovery list.
+4. Modify the destination database name if necessary.
+5. Review the recovery settings and click "OK" to initiate the recovery process.
 
+## Contributing
 
-Note: Please ensure to replace 'Lastname' with your actual surname before proceeding with the recovery process.
+If you find any bugs or have suggestions for improvements, please open an issue or submit a pull request.
+
+---
+
+**Note**: Please ensure to replace 'Lastname' with whatever name you want before proceeding with the recovery process.
